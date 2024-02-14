@@ -6,7 +6,7 @@ This repository contains solutions to LeetCode problems along with explanations 
 
 - **Python**: Contains Python solutions to LeetCode problems.
 - **Rust**: Contains Rust  solutions to LeetCode problems.
-- **Javascript **: Contains Javascript  solutions to LeetCode problems.
+- **Javascript**: Contains Javascript  solutions to LeetCode problems.
 
 ## Contributing
 
