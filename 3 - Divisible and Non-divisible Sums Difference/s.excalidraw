@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 63,
-      "versionNonce": 877104877,
+      "version": 64,
+      "versionNonce": 1943913847,
       "isDeleted": false,
       "id": "RNZJqmPUvDGOVxU23qwDH",
       "fillStyle": "solid",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707989936661,
+      "updated": 1708106115537,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -37,7 +37,7 @@
       "containerId": null,
       "originalText": "n , m  >  0 \n\n",
       "lineHeight": 1.25,
-      "baseline": 67
+      "baseline": 68
     },
     {
       "type": "freedraw",
@@ -481,8 +481,8 @@
     },
     {
       "type": "text",
-      "version": 61,
-      "versionNonce": 1089397347,
+      "version": 62,
+      "versionNonce": 367309177,
       "isDeleted": false,
       "id": "xzbbCY-lcvPO_fEFSK6z-",
       "fillStyle": "solid",
@@ -502,7 +502,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707989936665,
+      "updated": 1708106115541,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -513,12 +513,12 @@
       "containerId": null,
       "originalText": "num1 = sum([1,n] % m  != 0)",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 91,
-      "versionNonce": 867248461,
+      "version": 92,
+      "versionNonce": 756285079,
       "isDeleted": false,
       "id": "Rod6NcJg-vjSW7aXLg7ag",
       "fillStyle": "solid",
@@ -538,7 +538,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707989936667,
+      "updated": 1708106115543,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -549,7 +549,7 @@
       "containerId": null,
       "originalText": "num2 = sum([1,n] % m  == 0 )",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "freedraw",
@@ -945,8 +945,8 @@
     },
     {
       "type": "text",
-      "version": 26,
-      "versionNonce": 2051710467,
+      "version": 27,
+      "versionNonce": 1562516057,
       "isDeleted": false,
       "id": "qL0_ZpCVIriDxQfbC3bQG",
       "fillStyle": "solid",
@@ -966,7 +966,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707989936668,
+      "updated": 1708106115544,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -977,12 +977,12 @@
       "containerId": null,
       "originalText": "num1 - nm2",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 606,
-      "versionNonce": 465074093,
+      "version": 607,
+      "versionNonce": 291902391,
       "isDeleted": false,
       "id": "MTPvzQXBBf-wwjEFMk3t6",
       "fillStyle": "solid",
@@ -1002,7 +1002,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707989936672,
+      "updated": 1708106115550,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1013,7 +1013,7 @@
       "containerId": null,
       "originalText": "1 -  we have to declare a var which we will store the numbers that not devisable by m\n2 -  sum of arr\n3 -  we have to store the other numbers in num2",
       "lineHeight": 1.25,
-      "baseline": 67
+      "baseline": 68
     }
   ],
   "appState": {
