@@ -14,9 +14,9 @@ Contributions are welcome! If you have a solution to a LeetCode problem that you
 
 ## Channel
 
-Check out my YouTube channel where I post video solutions to LeetCode problems: [YourChannelName](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg)
+Check out my YouTube channel where I post video solutions to LeetCode problems: [0xkernel](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg)
 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-you
+
