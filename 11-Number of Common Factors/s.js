@@ -11,3 +11,4 @@ var commonFactors = function(a, b) {
     return nb 
    
 };
+
