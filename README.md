@@ -14,7 +14,7 @@ We value your contributions! If you've crafted a solution to a LeetCode problem 
 
 ## 🎥 Channel
 
-Don't forget to visit our YouTube channel, where we showcase video solutions to LeetCode problems: [0xkernel](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg)
+Don't forget to visit our YouTube channel, where we showcase video solutions to LeetCode problems: [0xkernel](www.youtube.com/@kernelrb)
 
 ## 📝 License
 
