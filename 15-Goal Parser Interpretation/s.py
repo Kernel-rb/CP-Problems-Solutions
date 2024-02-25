@@ -9,3 +9,5 @@ def interpret(  c: str) -> str:
             y += "al"
     return y
 print(interpret("G()(al)"))
+
+#https://leetcode.com/problems/goal-parser-interpretation/
