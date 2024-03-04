@@ -1,7 +1,15 @@
-pub fn check_if_pangram(sentence: String) -> bool {
-    if sentence.len() < 26 {
-        return false
-    }else{
-        return true
+impl Solution 
+{
+    pub fn check_if_pangram(sentence: String) -> bool 
+    {
+            let alphabet = "abcdefghijklmnopqrstuvwxyz";
+            for char in alphabet.chars() 
+            {
+                if !sentence.contains(char) 
+                {
+                    return false;
+                }
+            }
+            return true;
     }
 }
