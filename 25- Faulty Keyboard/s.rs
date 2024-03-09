@@ -9,5 +9,5 @@ pub fn final_string(s: String) -> String {
       a = a.chars().rev().collect::<String>();
     }
   }
-  return a;
+  return a; 
 }
