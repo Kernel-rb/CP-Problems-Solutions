@@ -6,3 +6,6 @@ def buildArray(nums: list[int]) -> list[int]:
 
 result = buildArray([0, 2, 1, 5, 3, 4])
 print(result)
+
+
+#https://leetcode.com/problems/build-array-from-permutation/
