@@ -3,10 +3,10 @@
 Welcome to our LeetCode Playlist repository! Here, you'll find solutions to various LeetCode problems accompanied by detailed explanations and walkthroughs.
 
 ## 📂 Folder Structure
-
-- **Python**: Explore Python solutions to LeetCode problems.
-- **Rust**: Dive into Rust solutions to LeetCode problems.
-- **Javascript**: Discover Javascript solutions to LeetCode problems.
+```plaintext
+./
+└── 01-March-2024/
+```
 
 ## 🤝 Contributing
 
