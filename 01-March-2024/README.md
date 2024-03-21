@@ -4,7 +4,7 @@
 | 02 - Merge Two Sorted Lists                            | Easy       | Python, JavaScript       |
 | 03 - Divisible and Non-divisible Sums Difference       | Easy       | Python, Rust, JavaScript       |
 | 04- Subtract the Product and Sum of Digits of an Integer | Easy     | Python, Rust, JavaScript       |
-| 05- Smallest Even Multiple                             | Easy       | Python, Rust, C, JavaScript       |
+| 05- Smallest Even Multiple                             | Easy       | Python, Rust, C, JavaScript , C#       |
 | 06 - Sum Multiples                                     | Easy       | Python, Rust, JavaScript       |
 | 07-Two Sum                                             | Easy       | Python, Rust, JavaScript       |
 | 08- Count the Digits That Divide a Number              | Easy       | Python, Rust, C, JavaScript       |
