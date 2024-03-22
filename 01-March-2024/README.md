@@ -36,3 +36,4 @@
 | 34-Kids With the Greatest Number of Candies           | Easy       | Python, Rust, C, JavaScript       |
 | 35-Shuffle String                                      | Easy       | Python, Rust, C       |
 | 36-Truncate Sentence                                   | Easy       | Python, Rust, JavaScript       |
+| 37-Count the Number of Consistent Strings              | Easy       | Python, Rust, JavaScript, C       |
