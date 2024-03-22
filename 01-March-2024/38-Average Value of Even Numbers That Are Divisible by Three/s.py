@@ -1,10 +1,14 @@
-def averageValue(nums: list[int]) -> int:
-    even_numbers = 0  
+def averageValue(nums: list[int]) -> float:
+    nb = 0 
+    len_of_nb = 0
     for i in nums: 
-        if i % 3 == 0 : 
-            even_numbers += i 
-    return even_numbers 
+        if i % 6 == 0 : 
+            len_of_nb += 1
+            nb += i
+    if len_of_nb == 0 :
+        return 0 
+    else : 
+        return int(nb // len_of_nb ) 
 
 
-
-print(averageValue( [1,3,6,10,12,15]))
+print(averageValue([9,3,8,4,2,5,3,8,6,1]))
