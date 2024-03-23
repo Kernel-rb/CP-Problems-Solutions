@@ -1,7 +1,7 @@
 char** fizzBuzz(int n, int* returnSize) {
     char** answer = (char**)malloc(sizeof(char*) * n);
     for (int i = 1; i <= n; i++) {
-        if (i % 3 == 0 && i % 5 == 0) {
+        if (i % 15 == 0) {
             result[i - 1] = "FizzBuzz";
         } else if (i % 3 == 0) {
             result[i - 1] = "Fizz";
