@@ -1,1 +1,0 @@
-def countConsistentStrings(allowed: str, words: list[str]) -> int:
