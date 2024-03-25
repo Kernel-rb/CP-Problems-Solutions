@@ -41,4 +41,4 @@
 | 39- Fibonacci Number                                                                            | Easy       | Python, Rust, JavaScript, C , C# , GO              |
 | 40- Fizz Buzz                                                                                   | Easy       | Python, Rust, JavaScript, C , C#                   |
 | 41-Count Items Matching a Rule                                                                  | Easy       | Python, Rust, JavaScript                           |
-| 42 -[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | Python , Rust , C                                 |
+| 42 -[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | Python , JavaScript                                |
