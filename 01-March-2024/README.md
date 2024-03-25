@@ -39,5 +39,5 @@
 | 37--Number of Common Factors                                 | Easy       | Python, Rust, JavaScript, C                        |
 | 38-Average Value of Even Numbers That Are Divisible by Three | Easy       | Python, Rust, JavaScript , C , C#                  |
 | 39- Fibonacci Number                                         | Easy       | Python, Rust, JavaScript, C , C# , GO              |
-|40- Fizz Buzz                                               | Easy       | Python, Rust, JavaScript, C , C# |
-| 41-Count the Number of Consistent Strings                  | Easy       | Python, Rust,  C  |
+| 40- Fizz Buzz                                                | Easy       | Python, Rust, JavaScript, C , C#                   |
+| 41-Count Items Matching a Rule                               | Easy       | Python, Rust,  C                                   |
