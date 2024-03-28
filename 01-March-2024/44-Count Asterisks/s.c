@@ -1,20 +1,15 @@
+#include <stdbool.h>
+
 int countAsterisks(char* s) {
-    int i=0;
+    int i = 0;
     int count = 0;
-    bool isOdd = false;
-    while(s[i]!='\0')
-    {
-        if(s[i] == '|')
-        {
-            if(!isOdd)
-                isOdd = true;
-            else
-                isOdd = false;
+    bool odd = false;
+    while (s[i] != '\0') {
+        if (s[i] == '|') {
+            odd = !odd;
         }
-        if(s[i] == '*')
-        {
-            if(!isOdd)
-                count++;
+        if (s[i] == '*' && !odd) {
+            count++;
         }
         i++;
     }
