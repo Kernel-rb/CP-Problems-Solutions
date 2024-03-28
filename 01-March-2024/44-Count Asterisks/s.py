@@ -1,10 +1,10 @@
 def countAsterisks(s: str) -> int:
         count = 0
-        a = True
+        isOdd = True
         for i in s:
             if i=='|':
-                a = not a
-            if i=='*' and a:
+                isOdd = not isOdd
+            if i=='*' and isOdd:
                 count+=1
         return count
 	
