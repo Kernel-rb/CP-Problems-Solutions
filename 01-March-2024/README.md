@@ -44,3 +44,4 @@
 | 42 -[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)          | Easy       | Python , JavaScript                                |
 | 43 -[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Easy       | Python, Rust , JavaScript                         |
 | 44 -[ Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Easy       | Python, Rust , C                        |
+| 45 -[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy       | Python, Rust , JavaScript                        |
