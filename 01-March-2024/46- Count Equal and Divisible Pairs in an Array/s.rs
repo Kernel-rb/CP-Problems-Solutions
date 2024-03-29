@@ -5,7 +5,7 @@ impl Solution {
         {
             for j in i+1..nums.len()
             {
-                if nums[i] == nums[j]  && (i * j) as i32 > k {
+                if nums[i] == nums[j]  && (i * j) as i32 % k == 0 {
                     counter += 1;
                 }
             }
