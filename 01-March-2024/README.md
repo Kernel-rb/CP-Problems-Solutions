@@ -45,3 +45,4 @@
 | 43 -[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Easy       | Python, Rust , JavaScript                         |
 | 44 -[ Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Easy       | Python, Rust , C                        |
 | 45 -[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy       | Python, Rust , JavaScript                        |
+| 46 -[ Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy       | Python, Rust , C                        |
