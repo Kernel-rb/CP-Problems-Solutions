@@ -48,3 +48,4 @@
 | 46 -[ Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy       | Python, Rust , C                        |
 | 47 -[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy       | Python, Rust , C , JavaScript , C++                        |
 | 48-[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)| Easy       | Python, Rust , JavaScript                        |
+| 49-[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy       | Python, Rust , C                        |
