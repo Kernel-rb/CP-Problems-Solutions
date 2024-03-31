@@ -49,3 +49,4 @@
 | 47 -[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy       | Python, Rust , C , JavaScript , C++                        |
 | 48-[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)| Easy       | Python, Rust , JavaScript                        |
 | 49-[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy       | Python, Rust , C                        |
+| 50-[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy       | Python                      |
