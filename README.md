@@ -7,7 +7,8 @@ Welcome to our LeetCode Playlist repository! Here, you'll find solutions to vari
 
 ## 📂 Folder Structure
 ```bash
-cd ./01-March-2024
+cd ./1.March-2024
+cd ./2.April-2024
 ```
 
 ## 🤝 Contributing
