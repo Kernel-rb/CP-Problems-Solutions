@@ -3,6 +3,5 @@
 | 1 -[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)                                       | Easy       | Python , Rust , C and JavaScript          |
 | 2 -[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)                                                           | Easy       | Python , Rust                             |
 | 3 -[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy       | Python , Rust , C , C++ , C# , JavaScript |
-
 |4- [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| Easy | Python , Rust , C , Java , C# , JavaScript |
 |5- [First Occurrence of a Number](https://leetcode.com/problems/first-occurrence-of-a-number/)| Easy | Python , Rust , C , JavaScript,  | 
