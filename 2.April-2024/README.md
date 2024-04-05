@@ -5,3 +5,4 @@
 | 3 -[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy       | Python , Rust , C , C++ , C# , JavaScript |
 
 |4- [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| Easy | Python , Rust , C , Java , C# , JavaScript |
+|5- [First Occurrence of a Number](https://leetcode.com/problems/first-occurrence-of-a-number/)| Easy | Python , Rust , C , JavaScript,  | 
