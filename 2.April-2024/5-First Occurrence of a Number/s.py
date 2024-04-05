@@ -1,7 +1,7 @@
 def premier_occurence(nums , target):
     res = -1
     start = 0
-    end = len(nums) - 1  # Fix: subtract 1 from the length to include the last element
+    end = len(nums) - 1  
     while start <= end :
         midd = (start + end ) // 2 
         if nums[midd] == target :
