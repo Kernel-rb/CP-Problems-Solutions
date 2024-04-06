@@ -7,3 +7,4 @@
 |5- [First Occurrence of a Number](https://leetcode.com/problems/first-occurrence-of-a-number/)| Easy | Python , Rust , C , JavaScript,  | 
 |6- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|Python , Rust , C , JavaScript, Java |
 |7 -[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Python , Rust , C , JavaScript, Java |
+|8-[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)|Easy|Python , Rust , C , JavaScript, Java |
