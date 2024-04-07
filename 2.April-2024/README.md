@@ -9,3 +9,4 @@
 |7 -[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Python , Rust , C , JavaScript, Java |
 |8-[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)|Easy|Python , Rust , C , JavaScript, Java |
 |9-[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|Easy|Python , Rust , C , JavaScript, Java |
+|10-[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|Easy|Python ,JavaScript |
