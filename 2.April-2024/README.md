@@ -8,3 +8,4 @@
 |6- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|Python , Rust , C , JavaScript, Java |
 |7 -[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Python , Rust , C , JavaScript, Java |
 |8-[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)|Easy|Python , Rust , C , JavaScript, Java |
+|9-[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|Easy|Python , Rust , C , JavaScript, Java |
