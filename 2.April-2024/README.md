@@ -11,3 +11,4 @@
 |9-[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|Easy|Python , Rust , C , JavaScript, Java |
 |10-[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|Easy|Python ,JavaScript |
 |11-[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|Easy|Python , Rust , C , JavaScript, Java |
+|12-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|Easy|Python , Rust  , JavaScript |
