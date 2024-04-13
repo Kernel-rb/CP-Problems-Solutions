@@ -12,3 +12,4 @@
 |10-[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|Easy|Python ,JavaScript |
 |11-[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|Easy|Python , Rust , C , JavaScript, Java |
 |12-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|Easy|Python , Rust  , JavaScript |
+|13-[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|Python , Rust, JavaScript|
