@@ -14,3 +14,4 @@
 |12-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|Easy|Python , Rust  , JavaScript |
 |13-[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|Python , Rust, JavaScript|
 |14-[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|Python , Rust , JavaScript, Java |
+|15-[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|Python , Rust , JavaScript, Java |
