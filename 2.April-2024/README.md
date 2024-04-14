@@ -15,3 +15,4 @@
 |13-[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|Python , Rust, JavaScript|
 |14-[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|Python , Rust , JavaScript, Java |
 |15-[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|Python , Rust , JavaScript, Java |
+|16-[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |Easy|Python , Rust , JavaScript, Java |
