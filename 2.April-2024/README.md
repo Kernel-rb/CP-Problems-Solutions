@@ -19,3 +19,4 @@
 |17-[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|Easy|Python , Rust , JavaScript, Java  |
 |18-[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Easy|Python , Rust , JavaScript, Java , C |
 |19-[Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/)|Easy|Python , Rust , JavaScript, Java , C |
+|20-[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|Easy|Python , Rust , JavaScript, Java , C |
