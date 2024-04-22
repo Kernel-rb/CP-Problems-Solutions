@@ -21,5 +21,4 @@
 | 19-[Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/)                                                                                | Easy       | Python , Rust , JavaScript, Java , C       |
 | 20-[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)                                        | Easy       | Python , Rust , JavaScript, Java , C       |
 | 21-[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)                                                | Easy       | Python , Rust , JavaScript, Java , C       |
-
 |22 -[Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)|Easy|Python , Rust , JavaScript, Java , C|
