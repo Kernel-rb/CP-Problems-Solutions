@@ -23,3 +23,4 @@
 | 21-[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)                                                | Easy       | Python , Rust , JavaScript, Java , C       |
 |22 -[Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)|Easy|Python , Rust , JavaScript, Java , C|
 |23 -[Detect Capital](https://leetcode.com/problems/detect-capital/description/)|Easy|Python , Rust , JavaScript, Java |
+|24 -[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|Easy|Python , Rust , JavaScript, Java , C |
