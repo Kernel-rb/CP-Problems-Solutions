@@ -11,3 +11,4 @@ var findPeaks = function(m) {
     }
     return peak;
 };
+
