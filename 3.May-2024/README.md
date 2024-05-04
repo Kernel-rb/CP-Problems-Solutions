@@ -1,0 +1,3 @@
+| Challenge Title                                                                                                                                               | Difficulty | Languages Used                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ |
+| 1 -[Baseball Game](https://leetcode.com/problems/baseball-game/description//)                                                              | Easy       | Python , Rust , Java and JavaScript           |
