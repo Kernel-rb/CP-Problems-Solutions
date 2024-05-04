@@ -15,6 +15,11 @@ cd ./2.April-2024
 cd ./3.May-2024
 ```
 
+## ✨ My Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Kernel-rb)](https://leetcode.com/Kernel-rb)
+
+
 ## 🤝 Contributing
 
 We highly appreciate your contributions! If you've solved a LeetCode problem and would like to share your solution, please feel free to create a pull request.
