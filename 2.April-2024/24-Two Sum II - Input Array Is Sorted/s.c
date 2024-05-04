@@ -18,6 +18,5 @@ int* twoSum(int* numbers, int numbersSize, int target, int* returnSize) {
         }
     }
     free(arr); 
-    return NULL; 
 }
 
