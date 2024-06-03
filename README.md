@@ -13,6 +13,7 @@ Welcome to our LeetCode Playlist repository! Here, you'll find solutions to vari
 cd ./1.March-2024
 cd ./2.April-2024
 cd ./3.May-2024
+cd ./4.June-2024
 ```
 
 ## ✨ My Stats
