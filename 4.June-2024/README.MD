@@ -5,3 +5,4 @@
 | 3 - [Special Array I](https://leetcode.com/problems/special-array-i/description/) | Easy | Python ,Java , Rust , C and JavaScript |
 |4 - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | Easy | Python ,Java  , C and JavaScript |
 |5 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Easy | Python ,Java  , C and JavaScript |
+|6- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | Python ,Java  , C and JavaScript |
