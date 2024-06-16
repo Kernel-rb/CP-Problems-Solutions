@@ -1,31 +1,30 @@
-> [!note]
-> Exclusive solution videos for these problems are available on our YouTube channel.
+# CP-Problems-Solutions
 
----
+Welcome to the CP-Problems-Solutions repository! This repository organizes solutions to various competitive programming problems from different platforms.
 
-# 📚 LeetCode Playlist
+## Folder Structure
 
-Welcome to our LeetCode Playlist repository! Here, you'll find solutions to various LeetCode problems along with detailed explanations and walkthroughs.
-
-## 📂 Folder Structure
-
-```bash
-cd ./0.Coding-Game
-cd ./1.March-2024
-cd ./2.April-2024
-cd ./3.May-2024
-cd ./4.June-2024
-```
-
-## ✨ My Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Kernel-rb)](https://leetcode.com/Kernel-rb)
-
-
-## 🤝 Contributing
-
-We highly appreciate your contributions! If you've solved a LeetCode problem and would like to share your solution, please feel free to create a pull request.
+- **Codingame/**
+  - Contains solutions to problems from Codingame.
+  
+- **Leetcode/**
+  - Contains solutions to problems from LeetCode.
+  
+- **Project Euler/**
+  - Contains solutions to problems from Project Euler.
+  
+- **Salesforce/**
+  - Contains solutions to Salesforce-specific coding challenges.
+  
+- **Rosetta Code/**
+  - Contains solutions to problems from Rosetta Code.
 
 ## 🎥 Channel
 
 Don't forget to check out our YouTube channel, where we offer video solutions to LeetCode problems: [0xkernel](www.youtube.com/@kernelrb) :)
+
+## Contributing
+Feel free to contribute your solutions following the existing folder structure. Please ensure your solutions are well-documented and adhere to any specific guidelines mentioned in each platform's folder.
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
