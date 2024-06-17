@@ -1,6 +1,6 @@
 # CP-Problems-Solutions
 
-Welcome to the CP-Problems-Solutions repository! This repository organizes solutions to various competitive programming problems from different platforms.
+Welcome to the CP-Problems-Solutions repository! This repository created to improve problem-solving skills and prepare for competitive programming tournaments. It contains solutions to problems from various online judges, such as LeetCode, Codeforces, and HackerRank.
 
 ## 👋 About Me
 
