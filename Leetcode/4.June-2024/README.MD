@@ -8,3 +8,4 @@
 |6- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | Python ,Java  , C and JavaScript |
 |7- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | Python ,Java  , C, C# and JavaScript |
 | 8- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Easy | Python ,Java  , C and JavaScript |
+| 8- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy | Python ,Java  , C and JavaScript |
