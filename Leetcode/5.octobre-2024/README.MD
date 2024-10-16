@@ -1,0 +1,3 @@
+| Challenge Title                                                                            | Difficulty | Languages Used                         |
+| ------------------------------------------------------------------------------------------ | ---------- | -------------------------------------- |
+| 1 -[Sort Color](https://leetcode.com/problems/sort-colors/description/) |Meduim | Python , Java , C |
