@@ -19,10 +19,7 @@ def plusMinus(arr) -> float:
             pos += 1 
         else : 
             neg += 1
-    print(pos/n)
-    print(neg/n)
-    print(z/n)
-
+    return neg , pos , z 
 if __name__ == '__main__':
     n = int(input().strip())
 
