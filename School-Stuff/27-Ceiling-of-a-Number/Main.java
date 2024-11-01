@@ -14,10 +14,10 @@ public class Main {
       if(arr[midd] < target){
         start = midd + 1;
       }else{
-        return midd
+        end  = midd  - 1;
         }
       }
     }
-    return -1;
+    return start;
   }
 }
