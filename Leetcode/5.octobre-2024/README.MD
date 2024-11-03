@@ -13,3 +13,4 @@
 | 11 - [Find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/Find-first-and-last-position-of-element-in-sorted-array/description/) | Meduim| Java|
 | 12 - [peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | Meduim| Java|
 | 13 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) | Hard| Java|
+| 14 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Meduim| Java|
