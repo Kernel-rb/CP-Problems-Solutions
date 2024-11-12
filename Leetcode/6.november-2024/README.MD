@@ -3,3 +3,6 @@
 | 1 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | Easy | Java |
 | 2 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Meduim | Java , Rust |
 | 3 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | Python |
+| 4 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | Meduim | Java |
+| 5 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Meduim | Java |
+| 6 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | Hard | Java |
