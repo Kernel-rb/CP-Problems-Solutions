@@ -6,3 +6,4 @@
 | 4 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | Meduim | Java |
 | 5 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Meduim | Java |
 | 6 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | Hard | Java |
+| 7 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy | Python |
