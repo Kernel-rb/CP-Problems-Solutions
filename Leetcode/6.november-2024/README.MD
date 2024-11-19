@@ -7,3 +7,5 @@
 | 5 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Meduim | Java |
 | 6 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | Hard | Java |
 | 7 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy | Python |
+| 8 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | Java |
+| 9 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | Easy | Java |
