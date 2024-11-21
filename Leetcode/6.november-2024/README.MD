@@ -13,3 +13,6 @@
 | 11 - [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy | Java |
 | 12 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Java |
 | 13 - [Find the Duplicate Number](https://leetcode.com/problems/flipping-an-image/description/) | Meduim | Java |
+| 14 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Meduim | Java |
+| 15 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy | Java |
+| 15 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | Hard | Java |
