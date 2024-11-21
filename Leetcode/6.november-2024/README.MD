@@ -9,3 +9,7 @@
 | 7 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy | Python |
 | 8 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | Java |
 | 9 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | Easy | Java |
+| 10 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Meduim | Java |
+| 11 - [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy | Java |
+| 12 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Java |
+| 13 - [Find the Duplicate Number](https://leetcode.com/problems/flipping-an-image/description/) | Meduim | Java |
